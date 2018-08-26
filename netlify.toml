@@ -3,4 +3,4 @@
   command = "npm run build"
 
 [[redirects]]
-  /event            https://www.facebook.com/events/273278053502860/
+  /event            https://www.facebook.com/events/273278053502860
